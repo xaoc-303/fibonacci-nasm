@@ -4,7 +4,7 @@
 
 | v | # | 30 | 35 | 40 | 45 |
 | --- | --- | --- | --- | --- | --- |
-| NASM 2.15.05 | [NAMS](./fib.asm) (compiled) | - | - | - | - |
+| 2.15.05 | [NASM](./fib.asm) (compiled) | - | - | - | - |
 | | [Total](https://github.com/xaoc-303/fibonacci) | | | | |
 
 ## optimization
